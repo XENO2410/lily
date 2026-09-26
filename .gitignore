@@ -1,0 +1,33 @@
+# Byte-compiled / build
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Runtime data
+logs/
+*.log
+*.sqlite3
+
+# Tests / caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS
+Thumbs.db
+Desktop.ini
